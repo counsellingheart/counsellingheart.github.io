@@ -14,7 +14,7 @@
   <meta name="description" content="Therapeutic Counselling Services in London, On-line and Phone">
   
   
-  <title>Conselling Heart</title>
+  <title>Counselling Heart</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
