@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
+
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:image:src" content="assets/images/index-meta.jpg">
   <meta property="og:image" content="assets/images/index-meta.jpg">
-  <meta name="twitter:title" content="Conselling Heart">
+  <meta name="twitter:title" content="Counselling Heart">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/android-chrome-122x122.png" type="image/x-icon">
-  <meta name="description" content="Therapeutic Counselling Services in London, On-line and Phone">
+  <meta name="description" content="Therapeutic Counselling Services in London, On-line and Telephone">
   
   
   <title>Counselling Heart</title>
@@ -51,7 +50,7 @@
                          <img src="assets/images/android-chrome-122x122.png" alt="Counseling Heart" title="Counseling Heart" style="height: 3.8rem;">
                     
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://mobirise.com">CounsellingHeart</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="">CounsellingHeart</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
